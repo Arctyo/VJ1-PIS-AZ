@@ -10,9 +10,11 @@ namespace VJ1_PIS_AZ
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            
             Console.WriteLine("Proof of concept aka new push");
             Console.WriteLine("Proofier proof of concept 2: Electric Boogaloo");
         }
     }
 }
+
+//izbrisana 13.linija
