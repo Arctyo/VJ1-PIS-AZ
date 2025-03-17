@@ -11,6 +11,7 @@ namespace VJ1_PIS_AZ
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Proof of concept aka new push");
         }
     }
 }
