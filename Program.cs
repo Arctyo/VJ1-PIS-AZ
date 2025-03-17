@@ -10,6 +10,7 @@ namespace VJ1_PIS_AZ
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
