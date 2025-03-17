@@ -8,5 +8,6 @@ namespace VJ1_PIS_AZ
 {
     internal class Class1
     {
+        Console.WriteLine("Hello Worldy");
     }
 }
