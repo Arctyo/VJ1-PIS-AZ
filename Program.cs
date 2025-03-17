@@ -13,6 +13,7 @@ namespace VJ1_PIS_AZ
             
             Console.WriteLine("Proof of concept aka new push");
             Console.WriteLine("Proofier proof of concept 2: Electric Boogaloo");
+            Console.WriteLine("Proofier proof of concept 2: Electric Boogaloo");
         }
     }
 }
